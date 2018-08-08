@@ -2,5 +2,5 @@
 
 currentUser = "tiff"
 welcomeMessage = "Welcome to Klossybook, " + currentUser + "!" ;
-excitedWelcomeMessage = "WELCOME TO KLOSSYBOOK, "
+excitedWelcomeMessage = "WELCOME TO KLOSSYBOOK, " + "TIFF" +"!"
 shortGreeting = "Welcome, t!"
