@@ -3,4 +3,4 @@
 currentUser = "string"
 welcomeMessage = "Welcome to Klossybook, ";
 excitedWelcomeMessage = "WELCOME TO KLOSSYBOOK, "
-shortGreeting = "Welcome, !"
+shortGreeting = "Welcome, s!"
