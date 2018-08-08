@@ -1,6 +1,6 @@
 // Write your code in this file!
 
-currentUser = "string"
+currentUser = "tiff"
 welcomeMessage = "Welcome to Klossybook, ";
 excitedWelcomeMessage = "WELCOME TO KLOSSYBOOK, "
-shortGreeting = "Welcome, s!"
+shortGreeting = "Welcome, t!"
