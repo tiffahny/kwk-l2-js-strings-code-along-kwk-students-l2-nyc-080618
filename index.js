@@ -2,4 +2,4 @@
 
 currentUser = "string"
 welcomeMessage = "Welcome to Klossybook, ";
-excitedWelcomeMessage = 
+excitedWelcomeMessage = "WELCOME TO KLOSSYBOOK, "
